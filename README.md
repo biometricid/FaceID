@@ -13,6 +13,11 @@ The app shows the smallest end-to-end flow around the SDK:
 
 ---
 
+## Download latest BiometricSDK 
+
+You can download latest version of SDK here: https://biometricid.eu.com/download
+Unzip Framework and add this Framework to XCode project
+
 ## Get an API key (free)
 
 To try the SDK you need a personal API key. Register and generate one for free
