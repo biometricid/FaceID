@@ -92,3 +92,6 @@ vendor/bundle
 # Environment
 .env
 .env.*
+
+# XCFramework (distributed separately)
+BiometricidSDK.xcframework/
